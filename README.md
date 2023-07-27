@@ -1,5 +1,5 @@
 # GLSP_Graphical_Editor
-Basic graphical editor using GLSP framework based on statemachine language
+Basic graphical editor using GLSP framework based on statemachine language, also a new attempt at collaborative work based on the GLSP project.
 ## Steps
 (1) Open the project-templates/modelserver-glspjava-emf-theia
 
