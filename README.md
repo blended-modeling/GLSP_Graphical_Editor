@@ -14,3 +14,5 @@ To start the Theia browser application with the integrated TaskList example, exe
 yarn start
 ```
 This will launch the example in the browser with an embedded Model Server and GLSP server on [localhost:3000](localhost:3000).
+![image](https://github.com/blended-modeling/GLSP_Graphical_Editor/assets/80332537/f7719006-327a-4f33-b5bc-7c0f633b2a54)
+
